@@ -1,3 +1,4 @@
+![CI](https://github.com/DAStudios/azure-pipelines-ephemeral-agents/workflows/CI/badge.svg)
 ![Publish Release to Marketplace](https://github.com/DAStudios/azure-pipelines-ephemeral-agents/workflows/Publish%20Release%20to%20Marketplace/badge.svg)
 
 # Ephemeral Pipelines Agents
