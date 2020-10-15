@@ -1,3 +1,5 @@
+![Publish Release to Marketplace](https://github.com/DAStudios/azure-pipelines-ephemeral-agents/workflows/Publish%20Release%20to%20Marketplace/badge.svg)
+
 # Ephemeral Pipelines Agents
 
 When you want to deploy to Azure Resources that are exposed on the internet, and only accessible via a [private network](https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-overview) you are excluded from using [Microsoft-hosted agents](https://docs.microsoft.com/en-us/azure/devops/pipelines/agents/hosted?view=azure-devops), and you need to maintain your pool of [self-hosted agents](https://docs.microsoft.com/en-us/azure/devops/pipelines/agents/agents?view=azure-devops#install).
